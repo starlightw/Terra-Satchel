@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "OAO",
+    "IHI",
+    "OIO"
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:obsidian"
+    },
+    "A": {
+      "item": "minecraft:anvil"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "H": {
+      "item": "minecraft:iron_horse_armor"
+    }
+  },
+  "result": {
+    "id": "terrautils:stomping_horse_armor",
+    "count": 1
+  }
+}
